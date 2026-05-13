@@ -1,29 +1,24 @@
 # Título do Projeto
 
-`CURSO`
+`Ciência da Computação`
 
-`DISCIPLINA`
+`Data Science`
 
-`SEMESTRE`
+`4`
 
-[Descrever, em um ou dois parágrafos, o problema investigado, o contexto da pesquisa, a motivação e o objetivo geral do projeto.]
-
+Este projeto investiga os fatores socioeconômicos e comportamentais associados ao rendimento escolar. O problema central é identificar como variáveis externas afetam o sucesso acadêmico. A motivação é fornecer insights baseados em dados para a área educacional. O objetivo geral é aplicar técnicas de Análise Exploratória de Dados (EDA) e treinar um modelo de Regressão Linear Múltipla para prever a nota final (G3) dos estudantes.
 ---
 
 ## Integrantes
 
-* Nome completo do aluno 1  
-* Nome completo do aluno 2  
-* Nome completo do aluno 3  
-* Nome completo do aluno 4  
-* Nome completo do aluno 5  
-* Nome completo do aluno 6  
+André Luiz Costa Magalhães
+Gabriel de Paula Lima  
 
 ---
 
 ## Orientador
 
-* Nome completo do professor  
+Diego Roberto Gonçalves de Pontes
 
 ---
 
